@@ -1,7 +1,7 @@
 #### run with container
 
 ```bash
-git clone git@github.com:jobscale/cookie-auth.git
+git clone https://github.com/jobscale/cookie-auth.git
 cd cookie-auth
 main() {
   docker build . -t local/cookie-auth:0.0.1
